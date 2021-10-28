@@ -1,0 +1,20 @@
+<component name="libraryTable">
+  <library name="sap">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/sap/cloud.integration.script.apis-2.7.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/sap/ch.qos.logback.classic_1.0.7.v20121108-1250.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/sap/ch.qos.logback.core_1.0.7.v20121108-1250.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/sap/ch.qos.logback.slf4j_1.0.7.v20121108-1250.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/sap/com.sap.gw.rt.camel.components.custom-development_1.42.5.sap-01.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/sap/com.sap.gw.rt.script.engine.api_1.42.5.sap-01.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/sap/com.sap.it.commons.logging.slf4j_1.48.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/sap/com.sap.it.commons_1.48.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/sap/com.sap.it.public.api_2.14.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/sap/org.apache.camel.camel-core_2.17.4.sap-16.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/sap/org.slf4j.api_1.7.2.v20121108-1250.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/sap/com.sap.it.public.adapter.api-2.25.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
